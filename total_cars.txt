@@ -1,0 +1,1 @@
+Total number of cars detected: 1924
